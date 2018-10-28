@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"name": "Breaking News",
+		"alias": "BN",
+		"globalId": 1,
+		"platform": "Win64",
+		"pathway": {
+			"status": "Robot",
+			"name": "start case",
+			"leafs": ["start", "teleport", "take photo", "kill", "finish"]
+		}
+	},
+	{
+		"id": 2,
+		"name": "Smoke and Mirrors",
+		"alias": "SAM",
+		"globalId": 1,
+		"platform": "Win64",
+		"pathway": {
+			"status": "Robot",
+			"name": "case 2",
+			"leafs": ["start", "teleport", "take photo", "kill", "death"]
+		}
+	},
+	{
+		"id": 3,
+		"name": "Breaking News",
+		"alias": "BN",
+		"globalId": 2,
+		"platform": "Win64",
+		"pathway": {
+			"status": "Robot",
+			"name": "start case",
+			"leafs": ["start", "teleport", "take photo", "kill", "finish"]
+		}
+	},
+	{
+		"id": 4,
+		"name": "Smoke and Mirrors",
+		"alias": "SAM",
+		"globalId": 2,
+		"platform": "Win64",
+		"pathway": {
+			"status": "Robot",
+			"name": "case 2",
+			"leafs": ["start", "teleport", "take photo", "kill", "death"]
+		}
+	}
+]

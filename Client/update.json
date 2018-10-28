@@ -1,0 +1,58 @@
+[
+	{
+		"name": "start",
+		"questId": 1
+	},
+	{
+		"name": "teleport",
+		"questId": 1
+	},
+	{
+		"name": "take photo",
+		"questId": 1
+	},
+	{
+		"name": "kill",
+		"questId": 1
+	},
+	{
+		"name": "finish",
+		"questId": 1
+	},
+	{
+		"name": "start",
+		"questId": 2
+	},
+	{
+		"name": "teleport",
+		"questId": 2
+	},
+	{
+		"name": "take photo",
+		"questId": 2
+	},
+	{
+		"name": "start",
+		"questId": 3
+	},
+	{
+		"name": "teleport",
+		"questId": 3
+	},
+	{
+		"name": "take photo",
+		"questId": 3
+	},
+	{
+		"name": "kill",
+		"questId": 3
+	},
+	{
+		"name": "finish",
+		"questId": 3
+	},
+	{
+		"name": "start",
+		"questId": 4
+	}
+]

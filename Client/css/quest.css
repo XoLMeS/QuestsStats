@@ -1,0 +1,27 @@
+body {
+	background-color: #17141f;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: white;
+	text-align: center;
+}
+
+table {
+	width: 100%;
+}
+
+thead {
+	font-size: 20px;
+}
+
+tbody {
+	background-color: grey;
+}
+
+.label {
+	font-size: 32px;
+	margin-top: 50px;
+}
+
+#grid {
+	margin-top: 50px;
+}
